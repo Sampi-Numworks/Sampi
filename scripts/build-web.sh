@@ -1,2 +1,2 @@
 #!/bin/bash
-make OMEGA_USERNAME="[USERNAME]" PLATFORM=simulator TARGET=web -j4
+make SAMPI_USERNAME="[USERNAME]" PLATFORM=simulator TARGET=web -j4

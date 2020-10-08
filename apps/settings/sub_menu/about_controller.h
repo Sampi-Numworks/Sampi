@@ -21,7 +21,7 @@ public:
   void willDisplayCellForIndex(HighlightCell * cell, int index) override;
   int typeAtLocation(int i, int j) override;
 private:
-#ifdef OMEGA_USERNAME
+#ifdef SAMPI_USERNAME
   constexpr static int k_totalNumberOfCell = 8;
 #else
   constexpr static int k_totalNumberOfCell = 7;
