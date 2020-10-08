@@ -4,3 +4,6 @@
 [submodule "themes"]
 	path = themes
 	url = https://github.com/Omega-Numworks/Omega-Themes.git
+[submodule "apps/pse"]
+	path = apps/pse
+	url = https://github.com/Sampi-Numworks/Sampi-PSE.git
