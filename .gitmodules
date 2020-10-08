@@ -4,3 +4,6 @@
 [submodule "apps/pse"]
 	path = apps/pse
 	url = https://github.com/Sampi-Numworks/Sampi-PSE.git
+[submodule "themes"]
+	path = themes
+	url = https://github.com/Sampi-Numworks/Sampi-Themes.git
